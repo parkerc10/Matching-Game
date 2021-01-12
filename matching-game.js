@@ -16,7 +16,7 @@ function titleColor() {
 function generateFaces() {
     for(let i = 1; i <= numberOfFaces; i++) {
         const face = document.createElement('img');
-        face.src = './smile.png';
+        face.src = 'images/smile.png';
         let randomTop = Math.floor(Math.random() * 400) + 1;
         let randomLeft = Math.floor(Math.random() * 500) + 1;
         face.style.top = randomTop + 'px';
