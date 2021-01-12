@@ -1,0 +1,28 @@
+img {
+    position: absolute;
+}
+div {
+    position: relative; 
+    width: 700px;
+    height: 500px;
+}
+#rightSide {
+    float: right;
+}
+#leftSide {
+    float: left;
+    border: 3px solid;
+    border-radius: 10%;
+    overflow: hidden;
+    background-color: teal;
+}
+button {
+    display: block;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background-color: rgb(219, 85, 85);
+}
