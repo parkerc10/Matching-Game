@@ -1,5 +1,5 @@
 # Matching-Game
-My First Project: Matching Game
+Matching Game Bootcamp Project
 
 ##
-This is my first project uploaded using Git and GitHub. Represents the beginning of my coding journey!
+This is my first project uploaded using Git and GitHub. Developed as part of a coding bootcamp. 
